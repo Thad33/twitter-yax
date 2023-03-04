@@ -1,0 +1,31 @@
+:root {
+
+    /* colors */
+    --clr-dark: hsl(230 35% 7%);
+    --clr-light: hsl(231, 76%, 90%);
+    --clr-white: hsl(0 0% 100%);
+    
+    /* font-sizes */
+    --fs-900: clamp(6rem, 12vw + 1rem, 8rem);
+    --fs-800: 4.5rem;
+    --fs-700: 3rem;
+    --fs-600: 2rem;
+    --fs-500: 1.75rem;
+    --fs-400: 1.5rem;
+    --fs-300: 1.25rem;
+    
+    /* font-families */
+    --ff-serif: "Bellefair", serif;
+    --ff-sans-cond: "Barlow Condensed", sans-serif;
+    --ff-sans-normal: "Barlow", sans-serif;
+    
+    /* font-weights */
+    --fw-100: 100;
+    --fw-400: 400;
+
+    /* gaps */
+    --gap-10: clamp(2rem, 11vw + 1rem, 10rem);
+    --gap-5: 5rem;
+    --gap-2: 2rem;
+    --gap-1: 1rem;
+}
